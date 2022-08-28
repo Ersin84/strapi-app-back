@@ -1,0 +1,91 @@
+{
+    "menuPrimary": {
+        "menu_1": [
+            {
+                "text": "Home Garden",
+                "url": "/",
+                "extraClass": "menu-item-has-children",
+                "subClass": "sub-menu",
+                "subMenu": [
+                    {
+                        "text": "Furniture",
+                        "url": "/"
+                    },
+                    {
+                        "text": "Home Textiles",
+                        "url": "/"
+                    },
+                    {
+                        "text": "Decoration and Lighting",
+                        "url": "/"
+                    },
+                    {
+                        "text": "Garden & Tarrace",
+                        "url": "/"
+                    },
+                    {
+                        "text": "DIY & Hardware",
+                        "url": "/"
+                    },
+                    {
+                        "text": "Pets",
+                        "url": "/"
+                    }
+                ]
+            },
+            {
+                "text": "Kitchen Gourmet",
+                "url": "/",
+                "extraClass": "menu-item-has-children",
+                "subClass": "sub-menu",
+                "subMenu": [
+                    {
+                        "text": "Gourmet",
+                        "url": "/"
+                    },
+                    {
+                        "text": "Small Electrical Appliances",
+                        "url": "/"
+                    }
+                ]
+            },
+            {
+                "text": "Sport Leisure",
+                "url": "/",
+                "extraClass": "menu-item-has-children",
+                "subClass": "sub-menu",
+                "subMenu": [
+                    {
+                        "text": "Other Sports",
+                        "url": "/"
+                    },
+                    {
+                        "text": "Sports Material and Equipments",
+                        "url": "/"
+                    },
+                    {
+                        "text": "Running & Athletics",
+                        "url": "/"
+                    },
+                    {
+                        "text": "Beach & Pool",
+                        "url": "/"
+                    },
+                    {
+                        "text": "Swimming",
+                        "url": "/"
+                    },
+                    {
+                        "text": "Tennis & Padel",
+                        "url": "/"
+                    }
+                ]
+            },
+            {
+                "text": "Contact",
+                "url": "/",
+                "extraClass": "menu-item-has-children"
+            }
+        ]
+    }
+}
